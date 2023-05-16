@@ -37,10 +37,10 @@ GIVEN a text editor web application:
 ## Deployed Application
 The application is deployed using Heroku.
 
-Link to the deployed application:[Click Here]()
+Link to the deployed application: [Click Here]( https://jate-edit-my-text.herokuapp.com/ )
 
 ## Contribution
-N/A
+Mini-Porject for week 19
 
 
 ## License
